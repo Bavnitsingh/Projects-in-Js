@@ -9,10 +9,7 @@ A simple and intuitive weather application that provides real-time weather infor
 - [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [API Key Setup](#api-key-setup)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -22,7 +19,7 @@ A simple and intuitive weather application that provides real-time weather infor
 
 ## Demo
 
-![Weather App Screenshot]()
+![Weather App Screenshot](https://github.com/Bavnitsingh/Projects-in-Js/blob/main/weather%20App%20project/Screenshot%202024-11-06%20164553.png)
 
 ## Technologies Used
 
